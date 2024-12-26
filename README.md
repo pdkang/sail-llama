@@ -1,5 +1,5 @@
 # llamasail
-Finetune Llama 3 with Appian SAIL code and run locally with a single Nvidia GPU with 24G VRAM.
+Finetune Llama 3 with Appian SAIL code (~12000 items) and run locally with a single Nvidia GPU with 24G VRAM.
 
 Fine-tuning Technology:
 
