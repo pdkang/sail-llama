@@ -3,10 +3,10 @@ Finetune Llama 3 with Appian SAIL code (~12000 items) and run locally with a sin
 
 Fine-tuning Technology:
 
-QLoRA (4-bit quantization with LoRA), final GGUF model is around 16GB in size.</B>
-Base model: Meta-Llama-3-8B-Instruct
-LoRA config: rank=4, alpha=16, targeting attention layers
-Training: 2 epochs, batch size=1, gradient accumulation=32
+QLoRA (4-bit quantization with LoRA), final GGUF model is around 16GB in size<br>
+Base model: Meta-Llama-3-8B-Instruct<br>
+LoRA config: rank=4, alpha=16, targeting attention layers<br>
+Training: 2 epochs, batch size=1, gradient accumulation=32<br>
 
 Merging & Conversion Process:
 
