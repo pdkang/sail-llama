@@ -10,12 +10,12 @@ Training: 2 epochs, batch size=1, gradient accumulation=32<br>
 
 Merging & Conversion Process:
 
-Merge: PEFT to combine LoRA weights with base model
-Convert: llama.cpp tools to create GGUF format
-Output: f16 precision GGUF file for local inference
+Merge: PEFT to combine LoRA weights with base model<br>
+Convert: llama.cpp tools to create GGUF format<br>
+Output: f16 precision GGUF file for local inference<br>
 
 Notable Features:
 
-Memory-efficient with CPU merging and garbage collection
-Custom dataset handler for structured code data
-Final output compatible with LLMStudio and llama.cpp
+Memory-efficient with CPU merging and garbage collection<br>
+Custom dataset handler for structured code data<br>
+Final output compatible with LLMStudio and llama.cpp<br>
